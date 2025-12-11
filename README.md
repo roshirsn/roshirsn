@@ -2,6 +2,7 @@
 AI/ML Engineer | Building Intelligent Systems That Actually Work  
 
 I focus on creating practical, high-impact AI solutions — from LLM-powered applications to medical imaging pipelines and computer vision systems. I enjoy breaking down complex problems, engineering clean solutions, and continuously pushing my technical boundaries.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)](https://your-portfolio-url.com)
 
 ---
 
