@@ -49,8 +49,6 @@ Docker • GitHub Actions • AWS (SageMaker, EC2, Lambda) • Linux
 [DICOM Processing & PACS Integration] – Automated workflow for medical imaging systems.  
 [Object Detection Pipeline] – YOLO-based detection system with custom training.
 
-*(Add links once you upload the repos)*
-
 ---
 
 
