@@ -57,16 +57,12 @@ Docker • GitHub Actions • AWS (SageMaker, EC2, Lambda) • Linux
 
 ---
 
-## 📝 Recent Blog Posts  
-*(Optional — add links if you start writing)*  
-- Building Reliable RAG Systems  
-- How to Design a Medical AI Pipeline from Scratch  
-- Practical Guide to DICOM in Machine Learning
 
----
+### 📬 Connect With Me
+[GitHub](https://github.com/roshirsn)  
+[LinkedIn](https://linkedin.com/in/roshithn)  
+[Email](mailto:roshithnofficial@gmail)
 
-## 📬 Connect With Me  
-GitHub | LinkedIn | Email  
 
 ---
 
@@ -74,5 +70,4 @@ GitHub | LinkedIn | Email
 If you find my work useful, feel free to support me!
 
 ---
-
-💻 Built with purpose by **ISOW MOSI**  
+  
