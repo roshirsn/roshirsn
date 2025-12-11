@@ -1,16 +1,78 @@
-## Hi there 👋
+# Roshith N
+AI/ML Engineer | Building Intelligent Systems That Actually Work  
 
-<!--
-**roshirsn/roshirsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on creating practical, high-impact AI solutions — from LLM-powered applications to medical imaging pipelines and computer vision systems. I enjoy breaking down complex problems, engineering clean solutions, and continuously pushing my technical boundaries.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+🎯 Focus: Developing reliable, end-to-end AI systems using LLMs, RAG, and Computer Vision.  
+🌱 Currently Learning: Advanced LLM agents, multi-modal models, scalable cloud deployment.  
+🧠 Philosophy: Simplicity wins. If the solution is messy, it’s wrong.  
+🚀 Mission: Build AI tools that solve real problems, not theoretical ones.
+
+---
+
+## 🛠️ My Skill Set
+
+### **Core Strengths**
+- AI/ML, Deep Learning  
+- LLMs, RAG, LangChain  
+- Medical AI (DICOM pipelines, PACS integration)  
+- Computer Vision (YOLO, CNNs, image processing)  
+
+### **Tech Stack**
+**AI & ML**  
+PyTorch • TensorFlow • Scikit-learn • HuggingFace
+
+**LLMs & RAG**  
+OpenAI • Gemini • Together AI • LangChain • Pinecone • FAISS
+
+**Backend**  
+FastAPI • Flask • Django • REST APIs
+
+**Medical Imaging**  
+pydicom • MONAI • DICOM-to-PNG processing • Viewer integration
+
+**DevOps & Cloud**  
+Docker • GitHub Actions • AWS (SageMaker, EC2, Lambda) • Linux
+
+---
+
+## 📊 GitHub Stats
+*(Add your GitHub stats cards here — optional)*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISOW-MOSI&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISOW-MOSI&layout=compact&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+
+[Medical AI Chatbot] – LLM + RAG system using Pinecone and LangChain.  
+[HPV Detection Model] – ML pipeline for medical diagnosis.  
+[DICOM Processing & PACS Integration] – Automated workflow for medical imaging systems.  
+[Object Detection Pipeline] – YOLO-based detection system with custom training.
+
+*(Add links once you upload the repos)*
+
+---
+
+## 📝 Recent Blog Posts  
+*(Optional — add links if you start writing)*  
+- Building Reliable RAG Systems  
+- How to Design a Medical AI Pipeline from Scratch  
+- Practical Guide to DICOM in Machine Learning
+
+---
+
+## 📬 Connect With Me  
+GitHub | LinkedIn | Email  
+
+---
+
+## ☕ Support My Work  
+If you find my work useful, feel free to support me!
+
+---
+
+💻 Built with purpose by **ISOW MOSI**  
