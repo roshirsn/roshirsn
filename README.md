@@ -1,4 +1,5 @@
-# Roshith N  | [![Portfolio Icon](https://img.icons8.com/fluency/24/000000/portfolio.png) Visit my portfolio](https://roshirsn.github.io/roshithn-portfolio)
+# Roshith N  | [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=flat-square)](https://roshirsn.github.io/roshithn-portfolio)
+
 
 AI/ML Engineer | Building Intelligent Systems That Actually Work  
 
