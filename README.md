@@ -39,13 +39,6 @@ Docker • GitHub Actions • AWS (SageMaker, EC2, Lambda) • Linux
 
 ---
 
-## 📊 GitHub Stats
-*(Add your GitHub stats cards here — optional)*  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISOW-MOSI&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISOW-MOSI&layout=compact&theme=radical)
-
----
-
 ## 🌟 Featured Projects
 
 [Medical AI Chatbot] – LLM + RAG system using Pinecone and LangChain.  
