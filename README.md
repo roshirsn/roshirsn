@@ -55,7 +55,7 @@ Docker • GitHub Actions • AWS (SageMaker, EC2, Lambda) • Linux
 
 
 ### 📬 Connect With Me
-[GitHub](https://github.com/roshirsn) | [LinkedIn](https://linkedin.com/in/roshithn) | [Email](roshithnofficial@gmail)
+[GitHub](https://github.com/roshirsn) | [LinkedIn](https://linkedin.com/in/roshithn) | [Email](mailto:roshithnofficial@gmail)
 
 
 
